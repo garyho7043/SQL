@@ -1,7 +1,7 @@
 # SQL
 some project and practice about SQL
 
-1.Homework.sql is Bus database system.
+1.Homework.sql is bus database system.
 
 
 2.Pdf(odt) is description of homework.sql(Bus database system).
